@@ -65,14 +65,13 @@
                             {{-- <h5 class="fw-bold mb-3">3,35 $</h5> --}}
                         </div>
 
-
                         <div class="col-lg-12">
                             <p class="mb-4">{!! $data->content !!}</p>
                         </div>
                         <div class="col-lg-12">
                             <p>Compartilhar</p>
                             <a href="https://api.whatsapp.com/send?text=www.destaquenoticias.com/view/{{ $data->slug }}">
-                                <img src="{{ asset('home/images/whatsapp.png') }}" class="whatsapp" alt="">
+                                <img src="{{ asset('home/img/whatsapp.png') }}" class="whatsapp" alt="">
                             </a>
                         </div>
 

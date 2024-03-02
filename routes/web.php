@@ -23,6 +23,8 @@ Route::get('pagamento/qrcode/', [HomeController::class, 'qrcode'])->name('home.p
 
 //denuncia
 Route::get('denuncia/', [DenunciaController::class, 'index'])->name('home.pages.denuncia.index');
+Route::get('denuncia/store', [DenunciaController::class, 'store'])->name('home.pages.denuncia.store');
+
 Route::post('assinatura/store', [DenunciaController::class, 'pagamento'])->name('home.pages.pagamento.store');
 
 

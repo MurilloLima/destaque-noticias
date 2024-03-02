@@ -19,9 +19,9 @@
         </div>
     </div>
     <!-- Section Start-->
-    <div class="container-fluid banner bg-secondary my-5" style="background-color: #FFFFFF !important;">
-        <div class="container py-2">
-            <div class="row" style="margin-bottom: 10px">
+    <div class="container-fluid banner bg-secondary my-2" style="background-color: #FFFFFF !important;">
+        <div class="container py-1">
+            <div class="row" style="margin-bottom: 30px">
                 <div class="col-lg-12 text-center">
                     <span style="font-size: 10px">Ouvi podcast</span><br>
                     <a href="https://open.spotify.com/episode/3VqlVsoMGOoB9DY9ypu3K7?go=1&sp_cid=262691a5dfae3b8a54c19c4f40def70d&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=1b0870bdc2f6474b"
